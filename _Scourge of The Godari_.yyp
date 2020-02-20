@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "44e49883-6852-4e1b-8d89-f48a6f93efe8",
+            "Value": {
+                "id": "80f18703-9d5f-4163-8fc9-4b7d8d890567",
+                "resourcePath": "sounds\\gem_collect\\gem_collect.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "45b0c474-d26d-4a30-8df7-b0b9c2bdc1a8",
             "Value": {
                 "id": "1c929714-5a96-4bae-a7ee-bf85b90d10e1",
