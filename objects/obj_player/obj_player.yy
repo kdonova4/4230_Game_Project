@@ -85,7 +85,7 @@
             "m_owner": "c0469b11-5436-4f90-9a7f-9aa2490428d0"
         },
         {
-            "id": "c4434830-7612-4e89-97a6-00703a0dd4ca",
+            "id": "b53b1008-bf99-4e75-bb28-b89292728fc1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -95,7 +95,7 @@
             "m_owner": "c0469b11-5436-4f90-9a7f-9aa2490428d0"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "98dbab5e-e820-4e4f-9b42-a02b5adb59dd",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
