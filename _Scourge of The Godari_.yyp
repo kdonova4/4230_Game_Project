@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "8c3fc421-6f9e-4f59-b2ca-1a6d5bae0e23",
+            "Value": {
+                "id": "9169f86f-5e4a-4fbd-98e0-5d3cc5b003bd",
+                "resourcePath": "objects\\obj_player_gun\\obj_player_gun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d36b0ac-6d14-4f73-8d80-55ed6ae71055",
             "Value": {
                 "id": "6e476049-49d3-4389-befb-4d141c1bf32e",
