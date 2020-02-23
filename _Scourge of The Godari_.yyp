@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2135bc0c-9f4a-4514-9e8c-b006b02e6931",
+            "Value": {
+                "id": "2a77d0f7-42af-4626-aa00-8613465f933d",
+                "resourcePath": "sounds\\snd_click\\snd_click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "219f8208-d83c-4472-9ae2-daa726bb38a6",
             "Value": {
                 "id": "67321c78-71f9-49d5-9bcf-8cb517ebf4d5",
@@ -186,7 +194,7 @@
             "Key": "44e49883-6852-4e1b-8d89-f48a6f93efe8",
             "Value": {
                 "id": "80f18703-9d5f-4163-8fc9-4b7d8d890567",
-                "resourcePath": "sounds\\gem_collect\\gem_collect.yy",
+                "resourcePath": "sounds\\snd_gemcollect\\snd_gemcollect.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -236,6 +244,14 @@
                 "id": "92a0b95a-a383-4c62-bf1a-bafda4f7c237",
                 "resourcePath": "objects\\obj_goblin\\obj_goblin.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ed7295d-4fc0-47d4-9632-c7edf32a2ca4",
+            "Value": {
+                "id": "c2b7d776-9fb9-4fea-8aa2-dd1844c77762",
+                "resourcePath": "sounds\\snd_selected\\snd_selected.yy",
+                "resourceType": "GMSound"
             }
         },
         {
