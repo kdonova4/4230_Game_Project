@@ -51,7 +51,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "b262227d-f1c7-4adb-88ce-20481af73910",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_slime",
+            "varName": "left_sprite",
+            "varType": 5
+        },
+        {
+            "id": "abfc6380-2d30-4de1-8b84-6877186d0505",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_slimerr1",
+            "varName": "right_sprite",
+            "varType": 5
+        },
+        {
+            "id": "3e53079a-50e4-48c5-8396-a2f175f2b1fa",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-2",
+            "varName": "travelSpeed",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "3f6c28f0-3a2a-421b-a1ae-969c562dceb1",
     "visible": true
