@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 62620A60
-/// @DnDArgument : "expr" "gemCollected == 1"
-if(gemCollected == 1)
+/// @DnDArgument : "expr" "gemCollected == gem"
+if(gemCollected == gem)
 {
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1

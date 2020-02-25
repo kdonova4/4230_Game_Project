@@ -155,6 +155,34 @@
             "value": "0",
             "varName": "variable_name",
             "varType": 0
+        },
+        {
+            "id": "d459d07b-29ca-4b4e-8826-893420d4310b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "gem",
+            "varType": 1
+        },
+        {
+            "id": "2e5a8bd5-17b1-4596-b5bf-498a42e7d3a9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "6",
+            "varName": "gems",
+            "varType": 1
         }
     ],
     "solid": false,
