@@ -9,6 +9,6 @@ if(gemCollected == 1)
 	/// @DnDHash : 5B1BC777
 	/// @DnDParent : 62620A60
 	/// @DnDArgument : "room" "room1"
-	/// @DnDSaveInfo : "room" "8b3422bd-4ff0-4d78-b32e-691cbbd13811"
+	/// @DnDSaveInfo : "room" "b2d12863-a841-4902-84a9-9b9e54bfc41e"
 	room_goto(room1);
 }
