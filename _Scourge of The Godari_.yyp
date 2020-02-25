@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "b1c3a9e3-aee2-492d-b5d9-7bd699946215",
+            "Value": {
+                "id": "86208e8c-5206-4c0d-8132-8e5834bada6f",
+                "resourcePath": "sprites\/spr_woods\/spr_woods.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b2d12863-a841-4902-84a9-9b9e54bfc41e",
             "Value": {
                 "id": "be5ac909-771b-4ec0-8d51-e36c57202a02",
