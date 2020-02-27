@@ -43,6 +43,26 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "277b8b64-b796-4750-a89a-04a44a3e5ed1"
+        },
+        {
+            "id": "d3ed5a17-a626-4a8f-9f93-054b44578f06",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "c0469b11-5436-4f90-9a7f-9aa2490428d0",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "277b8b64-b796-4750-a89a-04a44a3e5ed1"
+        },
+        {
+            "id": "5b500997-8c7b-4104-b25d-b64023f0b8aa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "277b8b64-b796-4750-a89a-04a44a3e5ed1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -102,6 +122,20 @@
             "resourceFilter": 1023,
             "value": "-2",
             "varName": "travelSpeed",
+            "varType": 1
+        },
+        {
+            "id": "73c88eae-aa4b-46fe-950a-b8b3c3392839",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "todoDamage",
             "varType": 1
         }
     ],
