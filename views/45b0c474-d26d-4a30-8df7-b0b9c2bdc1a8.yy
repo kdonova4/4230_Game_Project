@@ -4,7 +4,7 @@
     "mvc": "1.1",
     "name": "45b0c474-d26d-4a30-8df7-b0b9c2bdc1a8",
     "children": [
-        
+        "3dda2f19-f304-4598-9fc4-0085f56b73ef"
     ],
     "filterType": "GMPath",
     "folderName": "paths",
