@@ -26,11 +26,4 @@ if(canDamage)
 	/// @DnDParent : 0304E2C5
 	/// @DnDArgument : "steps" "15"
 	alarm_set(0, 15);
-
-	/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-	/// @DnDVersion : 1
-	/// @DnDHash : 6DF52248
-	/// @DnDParent : 0304E2C5
-	/// @DnDArgument : "msg" "obj_player.hp"
-	show_debug_message(string(obj_player.hp));
 }
