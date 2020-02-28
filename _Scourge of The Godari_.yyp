@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0157a20c-a00e-4e83-9451-114b78746533",
+            "Value": {
+                "id": "6b1aa1b2-6c62-4aa8-bf65-7435ff284a57",
+                "resourcePath": "objects\\obj_flyingbat_Room1\\obj_flyingbat_Room1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "018146ab-bb2a-4109-b6d2-efcee38d1d84",
             "Value": {
                 "id": "c9a8c1d2-9995-40bf-bb16-fc6b400a80f2",
@@ -668,6 +676,14 @@
                 "id": "6be964bb-59a0-4717-90a0-1236eeb1432e",
                 "resourcePath": "views\/c25c6221-3a0d-40a3-953a-f47354b62c0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c779a589-baa5-4e0b-be14-82e6b44e5482",
+            "Value": {
+                "id": "822fc40d-e155-4dc6-a8ed-333753c6208f",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
