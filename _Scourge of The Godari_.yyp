@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "b7c3d781-587f-45da-b38c-e11cc260b092",
+            "Value": {
+                "id": "90ff0527-5508-4d6a-9376-e963b4dcb174",
+                "resourcePath": "sprites\\spr_boss_death\\spr_boss_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba0b890a-ca29-4842-8fc6-558d2cf2ba62",
             "Value": {
                 "id": "773d560d-9d29-4be7-b2ed-dc7ac8304114",
