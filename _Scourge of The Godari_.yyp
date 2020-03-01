@@ -34,7 +34,7 @@
             "Key": "013f4e4f-8f3c-4e7b-a79b-0748ca9206ea",
             "Value": {
                 "id": "da9d453d-77ae-4eab-9f1f-6aa69e9adf59",
-                "resourcePath": "sprites\\spr_boss_shot\\spr_boss_shot.yy",
+                "resourcePath": "sprites\/spr_boss_shot\/spr_boss_shot.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "63270b41-9f71-44fc-a81b-a5fd122d54c4",
+            "Value": {
+                "id": "083277e2-ca20-4244-97b7-bd28dcbda055",
+                "resourcePath": "shaders\/shader_outline\/shader_outline.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "6724c57e-ab69-4b9f-ae38-3064807091b3",
             "Value": {
                 "id": "a659f0c0-a394-44d4-bb65-10a22a0ee057",
@@ -418,7 +426,7 @@
             "Key": "7257840c-5ac6-419b-8f6b-c7aab82ae02a",
             "Value": {
                 "id": "3a8d04a3-0363-470c-8be7-471ff0db098c",
-                "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourcePath": "objects\/obj_exit\/obj_exit.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -458,7 +466,7 @@
             "Key": "802a43b2-b2f5-44ff-af25-f4829d64da70",
             "Value": {
                 "id": "467749f9-bb6e-43ec-a907-1ce85c59e5bc",
-                "resourcePath": "objects\\obj_boss_proj\\obj_boss_proj.yy",
+                "resourcePath": "objects\/obj_boss_proj\/obj_boss_proj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -554,7 +562,7 @@
             "Key": "9465bc30-f2c4-4f87-ac5e-fe4e1487d500",
             "Value": {
                 "id": "23dac72e-45d6-4b93-9975-b64d166fd4ae",
-                "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
+                "resourcePath": "sprites\/spr_exit\/spr_exit.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -914,7 +922,7 @@
             "Key": "fe5ae9d9-770a-4c6d-bd9f-c2ea8f0a9f9c",
             "Value": {
                 "id": "1989e83c-f7ac-4ea0-b586-9e8e2baa72bf",
-                "resourcePath": "sprites\\spr_boss_proj\\spr_boss_proj.yy",
+                "resourcePath": "sprites\/spr_boss_proj\/spr_boss_proj.yy",
                 "resourceType": "GMSprite"
             }
         }
