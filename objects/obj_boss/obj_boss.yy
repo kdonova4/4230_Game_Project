@@ -83,6 +83,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "d4d34fee-9572-49e8-ae59-0fd878f9e563"
+        },
+        {
+            "id": "17dbfa09-50dd-4aea-9f8a-e114759122be",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "d4d34fee-9572-49e8-ae59-0fd878f9e563"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -158,6 +168,20 @@
             "resourceFilter": 1023,
             "value": "10",
             "varName": "todoDamage",
+            "varType": 1
+        },
+        {
+            "id": "14f725bf-82ad-4442-9eee-dd82dbbba63e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "80",
+            "varName": "shotInterval",
             "varType": 1
         }
     ],
