@@ -671,6 +671,14 @@
             }
         },
         {
+            "Key": "ae5793aa-cfb7-40d7-8ff1-c67b697cf556",
+            "Value": {
+                "id": "cbbe2388-e311-4cad-b5d4-97006be6e402",
+                "resourcePath": "sounds\\snd_boss_shoot\\snd_boss_shoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ae79bb7f-eefc-48cb-b91f-a8773710837b",
             "Value": {
                 "id": "95cdd7f2-4556-4a20-a97e-f3990d1b4cc3",
