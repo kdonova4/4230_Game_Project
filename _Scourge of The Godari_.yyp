@@ -386,7 +386,7 @@
             "Key": "63270b41-9f71-44fc-a81b-a5fd122d54c4",
             "Value": {
                 "id": "083277e2-ca20-4244-97b7-bd28dcbda055",
-                "resourcePath": "shaders\/shader_outline\/shader_outline.yy",
+                "resourcePath": "shaders\/shader_flash\/shader_flash.yy",
                 "resourceType": "GMShader"
             }
         },

@@ -1,5 +1,18 @@
-shader_set(shader_outline);
-shader_set_uniform_f(upixelW, texelW);
-shader_set_uniform_f(upixelH, texelH);
+
+//if blink {
+	//shader_set(shader_flash);
 draw_self();
-shader_reset();
+
+if flashAlpha > 0{
+	shader_set(shader_flash);
+	draw_sprite_ext(sprite_index, image_index,x,y, image_xscale, image_yscale, image_angle, flashColor, flashAlpha)
+	shader_reset();
+}
+
+	//if alarm[2]==-1{
+		//alarm[2] = blink_duration;
+	//}
+
+//} else {
+	//draw_self();	
+//}
