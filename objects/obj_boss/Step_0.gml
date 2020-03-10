@@ -1,4 +1,12 @@
 /// @descr Brain of the boss fight
+if(timeline_running == true)
+{
+	state = States.Talking
+}
+if (audio_is_playing(snd_evil_laugh))
+{
+	alarm[3] = 1
+}
 if (state = States.Attacking)
 {
 	if !instance_exists(obj_player)
@@ -15,7 +23,7 @@ if (state = States.Chase)	// Tune in the chase music
 	state = States.Winning	// Ha ha ha ha, I beat you
 exit;	
 }
-	
+
 }
 if state = States.Dead	// nooooo. Play my death music. 
 {
@@ -30,7 +38,7 @@ if state = States.Winning
 }
 if (state = States.Idle)	// Gotta find you and kill you
 {
-	if (distance_to_object(obj_player) <500)
+	if (distance_to_object(obj_player) <750)
 	{
 		state = States.Chase
 	}
@@ -80,7 +88,7 @@ if x == xprevious && y == yprevious {
 	
 }
 
-if (distance_to_object(obj_player) <= 10)
+if (distance_to_object(obj_player) <= 10 && state != States.Dead)
 {
 	
 	

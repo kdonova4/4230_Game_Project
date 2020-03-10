@@ -16,7 +16,8 @@ enum States {
 	Chase,
 	Shooting,
 	Shot,
-	Winning
+	Winning,
+	Talking
 }
 state = States.Idle
 

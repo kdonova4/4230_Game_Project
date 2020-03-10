@@ -6,7 +6,7 @@ if (obj_player.image_xscale > 0) {
 	}
 	else
 	{
-		hspeed = 4;
+		hspeed = 5;
 	}
 	
 
@@ -17,6 +17,6 @@ if (obj_player.image_xscale > 0) {
 	}
 	else
 	{
-		hspeed = -4;
+		hspeed = -5;
 	}
 }
