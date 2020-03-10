@@ -27,3 +27,9 @@ if(canDamage)
 	/// @DnDArgument : "steps" "15"
 	alarm_set(0, 15);
 }
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 59AC025F
+/// @DnDArgument : "code" "///@descr Please dont hurt the player"
+///@descr Please dont hurt the player
