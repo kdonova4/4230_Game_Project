@@ -1,3 +1,4 @@
+/// I get to swing my axe finally!!
 if(canDamage)
 {
 	script_execute(scr_damage, todoDamage);

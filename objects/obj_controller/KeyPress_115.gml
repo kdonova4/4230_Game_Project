@@ -1,7 +1,4 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 64929D5D
-/// @DnDArgument : "code" "if window_get_fullscreen()$(13_10)      {$(13_10)      window_set_fullscreen(false);$(13_10)      }$(13_10)   else$(13_10)      {$(13_10)      window_set_fullscreen(true);$(13_10)      }$(13_10) "
+/// @descr Guess you need a bigger resolution
 if window_get_fullscreen()
       {
       window_set_fullscreen(false);
