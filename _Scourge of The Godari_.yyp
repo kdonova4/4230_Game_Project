@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "94fbf57d-7056-4b5f-a732-2245ff8dcb6e",
+            "Value": {
+                "id": "8982ba26-595a-48d3-acfa-46a1c4a2ee2b",
+                "resourcePath": "sprites\\spr_player_run_gun_cart\\spr_player_run_gun_cart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9824886b-c519-4ac3-81c7-8393c40e6eeb",
             "Value": {
                 "id": "b3ab8aaf-62f0-4c34-9adb-18c1acc9769f",
@@ -807,6 +815,22 @@
             }
         },
         {
+            "Key": "aeb06d58-10a5-4d22-a084-b0fa74a24e91",
+            "Value": {
+                "id": "765df6ac-a6a5-4794-b4e0-f9ea41be1c58",
+                "resourcePath": "sprites\\spr_player_shoot_cart\\spr_player_shoot_cart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b01c0169-0718-430a-8879-900f18daa7c2",
+            "Value": {
+                "id": "70d5900e-9483-429a-9b79-aaffc91f2ab1",
+                "resourcePath": "sprites\\spr_player_gun_cart\\spr_player_gun_cart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1c3a9e3-aee2-492d-b5d9-7bd699946215",
             "Value": {
                 "id": "86208e8c-5206-4c0d-8132-8e5834bada6f",
@@ -884,6 +908,14 @@
                 "id": "3973abe0-25ef-4227-b1a5-a27b5e0dec89",
                 "resourcePath": "objects\/obj_player\/obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0d4ec08-f41d-43a7-b3f6-731c7dfe302d",
+            "Value": {
+                "id": "6b7b4442-6c26-4098-aeba-f26babcc7797",
+                "resourcePath": "sounds\\snd_shoot_cart\\snd_shoot_cart.yy",
+                "resourceType": "GMSound"
             }
         },
         {
