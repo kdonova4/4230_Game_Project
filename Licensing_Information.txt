@@ -6,6 +6,13 @@ Sound Details:
 sounds obtained from:
 https://www.zapsplat.com
 http://www.soundgator.com
+https://kenney.nl/assets/interface-sounds
+
+-snd_click
+https://kenney.nl/assets/interface-sounds
+
+-snd_selected
+https://kenney.nl/assets/interface-sounds
 
 -Hostage Crisis – dramatic, tense music with orchestral strings, brass, percussion and electric guitar gives the feel of a evolving situation such as a hostage crisis by Audio Hero (CC0 - zapsplat.com)
 https://www.zapsplat.com/music/hostage-crisis-dramatic-tense-music-with-orchestral-strings-brass-percussion-and-electric-guitar-gives-the-feel-of-a-evolving-situation-such-as-a-hostage-crisis/
