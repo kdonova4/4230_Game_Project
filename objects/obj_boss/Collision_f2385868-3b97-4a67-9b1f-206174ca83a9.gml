@@ -5,22 +5,22 @@ if(state != States.Dead )	// am I dead already?
 	if !audio_is_playing(snd_boss_hurt)
 {
   if(obj_player.pickedUpCart == false)
-  if(bossHealth >5)
+  if(bossHealth >2)
   audio_play_sound(snd_boss_hurt, 1, false);	// Ouch. That hurt!
 
 if(obj_player.pickedUpCart == true)
 {
-	if(bossHealth > 15)
+	if(bossHealth > 10)
 	audio_play_sound(snd_boss_hurt, 1, false);
 }
 }
 if(obj_player.pickedUpCart == true)
 {
-	bossHealth -=15
+	bossHealth -=10
 }
 else
 {
-	bossHealth -=5
+	bossHealth -=2
 }
 
 if (bossHealth <=0)

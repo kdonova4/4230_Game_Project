@@ -99,13 +99,17 @@ if (distance_to_object(obj_player) <= 10 && state != States.Dead)
 	if (obj_player.x < obj_boss.x)
 	{
 			// Are you behind me. I gotta turn around now. 
+		if(!audio_is_playing(snd_boss_attack))
 		audio_play_sound(snd_boss_attack, 1, false);
+		
 		sprite_index =  spr_boss_attack_left
 	image_speed = 1
 	image_index = 0
 	}else
 	{
+		if(!audio_is_playing(snd_boss_attack))
 		audio_play_sound(snd_boss_attack, 1, false);
+		
 		sprite_index = spr_boss_attack
 	image_speed = 1
 	image_index = 0

@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "1000892b-8499-4f3b-be18-b2d597c830eb",
-            "Value": {
-                "id": "dedf2630-620b-4254-9b79-c8a48f319ee7",
-                "resourcePath": "sprites\/spr_sleeping_bat\/spr_sleeping_bat.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "10925986-d52f-454d-8865-9a30a9a8232f",
             "Value": {
                 "id": "e5181291-3e9b-43d8-9887-c44cd00741d1",
@@ -123,14 +115,6 @@
             "Value": {
                 "id": "8d615762-f5c8-4489-a5fa-efc267e7b81e",
                 "resourcePath": "sprites\/spr_jewel\/spr_jewel.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "194ff3ec-a341-4da2-b673-2fb82b0c5251",
-            "Value": {
-                "id": "38133763-93bd-4118-ae99-3f84d5dc803d",
-                "resourcePath": "sprites\/spr_guns\/spr_guns.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -187,6 +171,14 @@
             "Value": {
                 "id": "eae789d2-cf63-477b-99a8-15c9677cb1b7",
                 "resourcePath": "sounds\/snd_evil_laugh\/snd_evil_laugh.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "244f1936-6ae6-4c22-b325-645aa1c8d129",
+            "Value": {
+                "id": "a4757f5f-d3fa-40ef-9dde-3dddbb40cc23",
+                "resourcePath": "sounds\\snd_reg_room_music\\snd_reg_room_music.yy",
                 "resourceType": "GMSound"
             }
         },
